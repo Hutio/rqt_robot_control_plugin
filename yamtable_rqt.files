@@ -1,0 +1,7 @@
+include/rqt_yamtable_plugin/rqt_yamtable_plugin_widget.h
+include/rqt_yamtable_plugin/rqt_yamtable_plugin.h
+src/rqt_yamtable_plugin/rqt_yamtable_plugin_widget.cpp
+src/rqt_yamtable_plugin/rqt_yamtable_plugin.cpp
+ui/rqt_yamtable_plugin/rqt_yamtable_plugin_widget.ui
+package.xml
+plugin.xml

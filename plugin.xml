@@ -1,0 +1,13 @@
+<library path="lib/librqt_yamtable_plugin">
+  <class name="YamtablePlugin" type="rqt_yamtable_plugin::YamtablePlugin" base_class_type="rqt_gui_cpp::Plugin">
+    <description>Yamtable plugin</description>
+    <qtgui>
+      <group>
+        <label>rqt plugins</label>
+        <icon type="theme">folder</icon>
+      </group>
+      <label>Yamtableplugin</label>
+      <statustip>Yamtable plugin</statustip>
+    </qtgui>
+  </class>
+</library>
